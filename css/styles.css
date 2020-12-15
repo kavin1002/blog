@@ -12,5 +12,7 @@ img
    {width: 130px;
    }
 h1,h2,h3,h4,h6{
+font-family: "Courier New", Courier, monospace;
+font-size: 23px ;
    color: #66BFBF;
 }
